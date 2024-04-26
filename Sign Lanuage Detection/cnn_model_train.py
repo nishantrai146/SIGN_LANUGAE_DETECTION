@@ -1,8 +1,8 @@
 import numpy as np
 import pickle
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
-from tensorflow.keras.utils import to_categorical
+from tensorflow.keras.models import Sequential # type: ignore
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense # type: ignore
+from tensorflow.keras.utils import to_categorical # type: ignore
 
 # Load training data
 with open("train_images", "rb") as f:

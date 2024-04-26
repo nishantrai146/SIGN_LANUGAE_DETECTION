@@ -3,7 +3,7 @@ import numpy as np
 import os
 import sqlite3
 import pyttsx3
-from keras.models import load_model
+from keras.models import load_model # type: ignore
 import pickle
 from threading import Thread
 
