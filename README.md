@@ -1,10 +1,15 @@
 Technologies and Tools
+
 Python
+
 TensorFlow
+
 Keras
+
 OpenCV
 
-   Process
+Process
+   
 *Run set_hand_histogram.py to set the hand histogram for creating gestures.
 
 *Once you get a good histogram, save it in the code folder.
