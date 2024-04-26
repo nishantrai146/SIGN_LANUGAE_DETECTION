@@ -1,4 +1,4 @@
-Technologies and Tools
+#Technologies and Tools
 
 Python
 
@@ -8,7 +8,7 @@ Keras
 
 OpenCV
 
-Process
+#Process
    
 *Run set_hand_histogram.py to set the hand histogram for creating gestures.
 
